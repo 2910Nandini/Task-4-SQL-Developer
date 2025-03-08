@@ -1,6 +1,7 @@
 # Task-4-SQL-Developer
 # Window Functions
-# Objective: Utilize SQL window functions to rank students and perform cumulative analysis.
+# Objective:
+Utilize SQL window functions to rank students and perform cumulative analysis.
 # Project Steps
 1. Dataset Setup
 ● Create and Populate Table:
